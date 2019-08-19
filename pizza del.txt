@@ -1,10 +1,11 @@
-Pick a pizza delivery
-Open pizza app
-Decide pizza
-Review order
-Choose payment method
-Order pizza
-Wait
-Open the door
-    Pay for pizza with cash
-    Tip your pizza delivery person
+How to order a Pizza
+1. Pick a pizza delivery
+2. Open pizza app
+3. Decide pizza
+4. Review order
+5. Choose payment method
+6. Order pizza
+	a. Wait
+	b. Open the door
+7.    Pay for pizza with cash
+8.    Tip your pizza delivery person
